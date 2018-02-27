@@ -1,0 +1,19 @@
+
+{
+  "name": "material-components-react-native",
+  "version": "1.0.0",
+  "description": "Material Design Components wrapper for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.41.2"
+  }
+}
