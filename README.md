@@ -47,7 +47,7 @@ git clone git@github.com:birkir/material-components-react-native.git
 cd material-components-react-native
 yarn link
 cd example
-yarn link react-native-material-components
+yarn link material-components-react-native
 cd ios
 pod install
 cd ..

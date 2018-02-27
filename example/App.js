@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, ScrollView, Text, View, TouchableWithoutFeedback, NativeModules } from 'react-native';
-import { RaisedButton, FlatButton, TextField, Card, ProgressBar, Collection } from 'react-native-material-components';
+import { RaisedButton, FlatButton, TextField, Card, ProgressBar, Collection } from 'material-components-react-native';
 
 export default class App extends React.Component {
   render() {
